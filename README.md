@@ -18,4 +18,4 @@ Para rodar o projeto, na sua máquina, utilize:
 
 
 Ações possíveis do usuário: 
-- Ao Apertar botão para gerar números randomicamente
+- Ao Apertar botão gerar números randomicamente

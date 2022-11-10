@@ -11,9 +11,10 @@
   margin-bottom: 20px;
 }
 .btnNumber {
-  width: 300px;
-  height: 100px;
-  background-color: dodgerblue;
+  width: 250px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: #373781;
   border: none;
   cursor: pointer;
 }

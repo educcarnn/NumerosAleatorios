@@ -1,3 +1,20 @@
-**Números Aleatórios**
 
-Link: https://numbers-three.vercel.app/
+
+**Tecnologias utilizadas**
+- React(Hooks)
+- CSS
+
+
+Para rodar o projeto, na sua máquina, utilize:
+
+**yarn** 
+
+
+**yarn start**
+
+
+<a href="https://numbers-three.vercel.app/">Vercel</a>
+
+
+Ações possíveis do usuário: 
+- Ao Apertar botão para gerar números randomicamente
